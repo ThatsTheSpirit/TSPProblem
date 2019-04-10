@@ -1,0 +1,20 @@
+﻿  main.cpp
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\main.cpp(26): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\main.cpp(27): warning C4305: аргумент: усечение из "double" к "const float"
+  GamiltonPath.cpp
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(9): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(9): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(12): warning C4305: =: усечение из "double" к "float"
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(95): warning C4244: =: преобразование "const int" в "float", возможна потеря данных
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(186): warning C4305: инициализация: усечение из "double" к "float"
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(187): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(192): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(213): warning C4018: <: несоответствие типов со знаком и без знака
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(216): warning C4018: <: несоответствие типов со знаком и без знака
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(195): warning C4930: std::mt19937 rd(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(282): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(284): warning C4930: std::mt19937 rd(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+d:\aleksey\учеба\c++\optimizationpath\optimizationpath\gamiltonpath.cpp(364): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  OptimizationPath.vcxproj -> D:\Aleksey\Учеба\C++\OptimizationPath\Debug\OptimizationPath.exe
+  OptimizationPath.vcxproj -> D:\Aleksey\Учеба\C++\OptimizationPath\Debug\OptimizationPath.pdb (Full PDB)
