@@ -6,11 +6,10 @@ using std::endl;
 
 int main()
 {
-	setlocale(LC_ALL, "ru");
 	GamiltonPath h;
 	
 	short countTests = 0;
-	cout << "Введите количество тестов: ";
+	cout << "Enter the number of tests: ";
 	std::cin >> countTests;
 
 	auto begin = std::chrono::steady_clock::now();
